@@ -109,8 +109,11 @@ B           ... ... ... ... ...     ...     ...
 
 Charts:
 Project Duration Distribution:
+
 ![Histogram showing the distribution of total project durations from Monte Carlo simulations](pra-duration-distribution.png)
+
 Critical Path Frequency:
+
 ![Bar chart showing the frequency percentage for each task appearing on the critical path](pra-critical-path-frequency.png)
 
 ## License
