@@ -43,13 +43,13 @@ The Probabilistic Risk Assessment (PRA) script incorporates potential risks and 
 
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/SepehrMohammady/PRASimulator.git # Or your chosen repo name
+    git clone https://github.com/SepehrMohammady/PRASimulator.git
     cd PRASimulator
     ```
 2.  (Recommended) Create and activate a virtual environment:
     ```bash
-    python -m venv pra_env
-    source pra_env/bin/activate  # On Windows use `pra_env\Scripts\activate`
+    python -m venv pra
+    source pra/bin/activate  # On Windows use `pra_env\Scripts\activate`
     ```
 3.  Install dependencies:
     ```bash
@@ -58,10 +58,12 @@ The Probabilistic Risk Assessment (PRA) script incorporates potential risks and 
 
 ## How to Run
 
-Execute the Python script from the terminal. The script will print statistical analysis to the console and display the output charts:
+Execute the Python script from the terminal:
 ```bash
 python PRA.py
 ```
+The script will print statistical analysis to the console and display the output charts.
+
 ## Sample Input Data Structure (within the script)
 
 The script defines activities with mean durations and standard deviations (for normal distributions), and dependencies:
