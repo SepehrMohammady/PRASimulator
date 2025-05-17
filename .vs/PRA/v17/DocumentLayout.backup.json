@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\SMoha\\Desktop\\Temporary\\UniGe\\Strategic Programs\\Prof. Bellotti\\Project\\PRA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF1E5F63-18F9-40C4-A116-070B469145BC}|PRA.pyproj|C:\\Users\\SMoha\\Desktop\\Temporary\\UniGe\\Strategic Programs\\Prof. Bellotti\\Project\\PRA\\PRA.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{DF1E5F63-18F9-40C4-A116-070B469145BC}|PRA.pyproj|solutionrelative:PRA.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PRA.py",
+              "DocumentMoniker": "C:\\Users\\SMoha\\Desktop\\Temporary\\UniGe\\Strategic Programs\\Prof. Bellotti\\Project\\PRA\\PRA.py",
+              "RelativeDocumentMoniker": "PRA.py",
+              "ToolTip": "C:\\Users\\SMoha\\Desktop\\Temporary\\UniGe\\Strategic Programs\\Prof. Bellotti\\Project\\PRA\\PRA.py",
+              "RelativeToolTip": "PRA.py",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAAO8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-07T22:01:53.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
