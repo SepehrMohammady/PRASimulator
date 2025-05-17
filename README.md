@@ -49,7 +49,7 @@ The Probabilistic Risk Assessment (PRA) script incorporates potential risks and 
 2.  (Recommended) Create and activate a virtual environment:
     ```bash
     python -m venv pra
-    source pra/bin/activate  # On Windows use `pra_env\Scripts\activate`
+    source pra/bin/activate  # On Windows use `pra\Scripts\activate`
     ```
 3.  Install dependencies:
     ```bash
@@ -67,7 +67,8 @@ The script will print statistical analysis to the console and display the output
 ## Sample Input Data Structure (within the script)
 
 The script defines activities with mean durations and standard deviations (for normal distributions), and dependencies:
-Example structure (refer to the script for actual values)
+```python
+# Example structure (refer to the script for actual values)
 activities = {
     'A': (2, 0),    # (mean_duration, std_dev)
     'B': (1, 0.2),
@@ -80,7 +81,7 @@ dependencies = {
     'B': ['A'],
     # ... and so on
 }
-
+```
 Custom duration functions like durA(), durB() are also defined in the script to model specific risk scenarios for certain tasks.
 
 ## Example Output
